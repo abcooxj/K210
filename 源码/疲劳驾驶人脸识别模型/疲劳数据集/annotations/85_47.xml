@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+  <filename>85_47.jpg</filename>
+  <size>
+    <width>233</width>
+    <height>416</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>闭眼</name>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <occluded>0</occluded>
+    <bndbox>
+      <xmin>68</xmin>
+      <ymin>57</ymin>
+      <xmax>124</xmax>
+      <ymax>105</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>闭眼</name>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <occluded>0</occluded>
+    <bndbox>
+      <xmin>160</xmin>
+      <ymin>96</ymin>
+      <xmax>226</xmax>
+      <ymax>159</ymax>
+    </bndbox>
+  </object>
+</annotation>

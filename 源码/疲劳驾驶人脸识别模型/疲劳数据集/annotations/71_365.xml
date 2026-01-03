@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+  <filename>71_365.jpg</filename>
+  <size>
+    <width>248</width>
+    <height>416</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>闭眼</name>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <occluded>0</occluded>
+    <bndbox>
+      <xmin>116</xmin>
+      <ymin>82</ymin>
+      <xmax>187</xmax>
+      <ymax>128</ymax>
+    </bndbox>
+  </object>
+</annotation>

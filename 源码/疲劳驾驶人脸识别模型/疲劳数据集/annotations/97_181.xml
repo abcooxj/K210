@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+  <filename>97_181.jpg</filename>
+  <size>
+    <width>277</width>
+    <height>416</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>张嘴</name>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <occluded>0</occluded>
+    <bndbox>
+      <xmin>117</xmin>
+      <ymin>155</ymin>
+      <xmax>172</xmax>
+      <ymax>192</ymax>
+    </bndbox>
+  </object>
+</annotation>
